@@ -1,6 +1,6 @@
 # 简单的光线追踪渲染器
 
-Authot: Tang Rulin
+Author: Tang Rulin
 
 读取 obj 及 Material 文件，渲染出 jpg。
 
