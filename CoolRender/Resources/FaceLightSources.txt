@@ -1,0 +1,16 @@
+FaceLightSource
+v   20   30  20
+v   20   30  -20
+v   -20  30  -20
+vn  0   -1  0
+c 1 1 1
+l 6
+FaceLightSource
+v   20   30  20
+v   -20   30  20
+v   -20  30  -20
+vn  0   -1  0
+c 1 1 1
+l 6
+EnvironmentLightSource
+c 0.26 0.32 0.3

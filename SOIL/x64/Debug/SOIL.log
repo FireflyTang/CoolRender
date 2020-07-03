@@ -1,0 +1,18 @@
+﻿  SOIL.c
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\SOIL.c(1710,36): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\SOIL.c(1720,19): warning C4018: “<”: 有符号/无符号不匹配
+  image_DXT.c
+  image_helper.c
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\SOIL.c(1858,52): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\image_helper.c(325,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\image_helper.c(366,58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\image_helper.c(373,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\image_helper.c(415,58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  stb_image_aug.c
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\image_helper.c(422,62): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\stbi_DDS_aug_c.h(362,19): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\stbi_DDS_aug_c.h(366,19): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\stbi_DDS_aug_c.h(390,19): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+C:\Users\trl\Desktop\CoolRender\SOIL\SOIL\stbi_DDS_aug_c.h(427,19): warning C4018: “<”: 有符号/无符号不匹配
+  SOIL.vcxproj -> C:\Users\trl\Desktop\CoolRender\x64\Debug\SOIL.lib
